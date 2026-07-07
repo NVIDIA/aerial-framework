@@ -1,4 +1,4 @@
-# NVIDIA Aerial™ Framework
+# E-MOBI / EKONOMIK MOBIL,S.R.L ,NVIDIA Aerial™ Framework
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](LICENSE)
 [![Docs](https://img.shields.io/badge/Docs-link-brightgreen.svg)](https://docs.nvidia.com/aerial/framework/latest/index.html)
